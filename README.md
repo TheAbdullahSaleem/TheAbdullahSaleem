@@ -13,16 +13,6 @@ I'm a 14-year-old student learning offensive cybersecurity.
 
 Become an offensive security engineer and eventually build a cybersecurity company.
 
-## Current Project
-
-🔨 Password Generator
-
-## Next Projects
-
-- Port Scanner
-- HTTP Server
-- Packet Sniffer
-
 ## Connect
 
 LinkedIn: www.linkedin.com/in/the-abdullah-saleem/

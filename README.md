@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm <Your Name> 👋
 
-<!--
-**TheAbdullahSaleem/TheAbdullahSaleem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 14-year-old student learning offensive cybersecurity.
 
-Here are some ideas to get you started:
+## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Linux
+- Networking
+- Web Security
+
+## Current Goal
+
+Become an offensive security engineer and eventually build a cybersecurity company.
+
+## Current Project
+
+🔨 Password Generator
+
+## Next Projects
+
+- Port Scanner
+- HTTP Server
+- Packet Sniffer
+
+## Connect
+
+LinkedIn: www.linkedin.com/in/the-abdullah-saleem/

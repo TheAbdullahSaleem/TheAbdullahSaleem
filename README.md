@@ -16,4 +16,4 @@ Become an offensive security engineer and eventually build a cybersecurity compa
 ## Connect
 
 LinkedIn: www.linkedin.com/in/the-abdullah-saleem/
-X: x.com/TheAbdullahSal
+X: https://x.com/TheAbdullahSal
